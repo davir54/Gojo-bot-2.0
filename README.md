@@ -1,7 +1,7 @@
-# 🤖 Brizas-bot 🤖
+# 🤖 GOJO-BOT 🤖
 <h1 align="center">
     <p>
-        <img src= "https://i.imgur.com/sm6LGkk.gif">
+        <img src= "https://imgur.com/gallery/9Tf8KAz">
     </p>
     <p>
         <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-Briz4loka-purple.svg?style=for-the-badge&logo=github"></a>
@@ -52,7 +52,7 @@ pm2 start index.js
 # 🙋‍♂️ Como mudar as configurações do bot
 ```
 cd
-cd Brizas-bot
+cd Gojo-bot-2.0
 apt install nano
 nano config.js
 
@@ -94,8 +94,8 @@ Pix
 
 # 🤝 Contato
 
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
+[Whatsapp](https://api.whatsapp.com/send/?phone=%2B5582042647&text&app_absent=0)
 
-[Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg)
+
 
 
