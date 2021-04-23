@@ -1,7 +1,7 @@
 # 🤖 GOJO-BOT 🤖
 <h1 align="center">
     <p>
-        <img src= "https://imgur.com/t/satoru gojo/Ed1k6Bv">
+        <img src= "https://imgur.com/t/satoru-gojo/Ed1k6Bv">
     </p>
     <p>
         <a href="https://github.com/davir54"><img title="Author"    src="https://img.shields.io/badge/Author-Davizinho-purple.svg?style=for-the-badge&logo=github"></a>
