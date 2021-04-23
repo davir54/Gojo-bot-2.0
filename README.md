@@ -1,10 +1,10 @@
 # 🤖 GOJO-BOT 🤖
 <h1 align="center">
     <p>
-        <img src= "https://imgur.com/gallery/9Tf8KAz">
+        <img src= "https://imgur.com/t/satoru gojo/Ed1k6Bv">
     </p>
     <p>
-        <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-Briz4loka-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/davir54"><img title="Author"    src="https://img.shields.io/badge/Author-Davizinho-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/ianmsfvenom/followers"><img title="Followers" src="https://img.shields.io/github/followers/ianmsfvenom?color=blue&style=flat-square"></a>
@@ -33,8 +33,8 @@ O Brizas-bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Brizas-bot
+git clone https://github.com/davir54/Gojo-bot-2.0.git
+cd Gojo-bot-2.0
 bash install.sh
 npm install
 
